@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Praveen Kumar P </h1>
+<h1 align="center"> Hi 👋🏻, I'm Praveen Kumar </h1>
 <p align="center">I love building applications that scale ⚡</p>
 <p align="center">Turning ideas into working code, one project at a time 🚀</p>
 
