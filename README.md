@@ -3,8 +3,9 @@
 <p align="center">Turning ideas into working code, one project at a time 🚀</p>
 
 <p align="center">
-<a href="https://linkedin.com/in/praveen-pk" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/praveen-pk" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://leetcode.com/u/tCZYO24DBl" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=FFA116&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.praveen-kumar.site/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="mailto:praveenppk2004@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=EA4335&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
